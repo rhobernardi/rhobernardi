@@ -12,7 +12,7 @@ Currently Embdded Systems developer for InfoSec and studying Data Science, Machi
 
 - 📫 How to reach me: [Telegram](https://t.me/rhobernardi) | [LinkedIn](https://www.linkedin.com/in/rodrigobernardi07/)
 
-Be my guest to check out my projects I've developed 😄
+Be my guest to check out the projects I've developed 😄
 
 <!--
 **rhobernardi/rhobernardi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
