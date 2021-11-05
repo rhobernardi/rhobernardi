@@ -2,9 +2,9 @@
 
 My name is Rodrigo Bernardi, I'm a brazilian Computer Scientist in love with technology and computer programming. 
 
-Currently Embdded Systems developer for InfoSec and studying Data Science, Machine Learning and all sorts of AI applications.
+Currently Software Engineer for mobile camera engine and studying Data Science, Machine Learning and all sorts of AI applications.
 
-- 🔭 Currently working as a Embedded InfoSec Systems developer for [KRYPTUS](https://kryptus.com/)
+- 🔭 Currently working as a Software Engineer for [Motorola Mobility](https://www.motorola.com.br/)
 
 - 🌱 Currently learning Data Science and AI developement
 
