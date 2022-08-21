@@ -16,7 +16,7 @@ Currently Software Engineer for mobile camera engine and studying Data Science, 
 
 Be my guest to check out the projects I've developed 😄
 
-![Rodrigo Bernardi](https://github-readme-stats.vercel.app/api?username=rhobernardi&show_icons=true&theme=chartreuse-dark&hide=issues)
+![Rodrigo Bernardi](https://github-readme-stats.vercel.app/api?username=rhobernardi&show_icons=true&theme=chartreuse-dark&hide=issues&count_private=true)
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=rhobernardi&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
