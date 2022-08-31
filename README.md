@@ -17,7 +17,8 @@ Currently Software Engineer for mobile camera engine and studying Data Science, 
 Be my guest to check out the projects I've developed 😄
 
 ![Rodrigo Bernardi](https://github-readme-stats.vercel.app/api?username=rhobernardi&show_icons=true&theme=chartreuse-dark&hide=issues&count_private=true)
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=rhobernardi&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=rhobernardi&layout=compact&theme=chartreuse-dark)](https://github.com/rhobernardi)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frhobernardi&count_bg=%23FE6E96&title_bg=%23282A36&icon=&icon_color=%23E7E7E7&title=Perfil+Visualiza%C3%A7%C3%B5es&edge_flat=true)](https://github.com/rhobernardi)
 
 <!--
 **rhobernardi/rhobernardi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
