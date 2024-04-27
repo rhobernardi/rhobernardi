@@ -4,7 +4,7 @@ My name is Rodrigo Bernardi, I'm a brazilian Computer Scientist in love with tec
 
 Currently Software Engineer for mobile camera engine and studying Data Science, Machine Learning and all sorts of AI applications.
 
-- 🔭 Currently working as a Software Engineer for [Motorola Mobility](https://www.motorola.com.br/)
+- 🔭 Currently working as an Embedded Software Engineer for [Motorola Mobility](https://www.motorola.com.br/)
 
 - 🌱 Currently learning Data Science and AI developement
 
