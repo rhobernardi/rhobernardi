@@ -6,7 +6,7 @@ Currently Software Engineer for mobile camera engine and studying Data Science, 
 
 - 🔭 Currently working as an Embedded Software Engineer for [Motorola Mobility](https://www.motorola.com.br/)
 
-- 🌱 Currently learning Data Science and AI developement
+- 🌱 Currently learning Data Science and Machine Learning
 
 - 💻 Techs & Tools: C/C++, Python, SQL, NodeJS, Docker, Cloud, API and more...
 
