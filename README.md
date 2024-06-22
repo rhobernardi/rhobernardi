@@ -1,26 +1,20 @@
-### Hi there 👋
+### Welcome! I'm Rodrigo Bernardi
 
-My name is Rodrigo Bernardi, I'm a brazilian Computer Scientist in love with technology and computer programming. 
+- Computer Scientist in love with technology and computer programming. 
 
-Currently Software Engineer for mobile camera engine and studying Data Science, Machine Learning and all sorts of AI applications.
+- Embedded Software Engineer @ [Motorola Mobility](https://www.linkedin.com/company/motorola-mobility/)
 
-- 🔭 Currently working as an Embedded Software Engineer for [Motorola Mobility](https://www.motorola.com.br/)
+<br>
 
-- 🌱 Currently learning Data Science and Machine Learning
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=rhobernardi&theme=chartreuse-dark&layout=compact)](https://github.com/rhobernardi)
 
-- 💻 Techs & Tools: C/C++, Python, SQL, NodeJS, Docker, Cloud, API and more...
+<br>
 
-- ⚡ Fun fact: I make art recreating real life characters using AI in [my Instagram page](https://instagram.com/aidroid.art)
-
-- 📫 How to reach me: [Telegram](https://t.me/rhobernardi) | [LinkedIn](https://www.linkedin.com/in/rodrigobernardi07/)
-
-Be my guest to check out the projects I've developed 😄
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frhobernardi&count_bg=%23FE6E96&title_bg=%23282A36&icon=&icon_color=%23E7E7E7&title=Perfil+Visualiza%C3%A7%C3%B5es&edge_flat=true)](https://github.com/rhobernardi)
-
-![Rodrigo Bernardi](https://github-readme-stats.vercel.app/api?username=rhobernardi&show_icons=true&theme=chartreuse-dark&hide=issues&count_private=true)
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=rhobernardi&layout=compact&theme=chartreuse-dark)](https://github.com/rhobernardi)
-
+<div>
+  <a href="https://www.linkedin.com/in/rodrigonbernardi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/aidroid.art" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://t.me/rhobernardi" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
+</div>
 
 <!--
 **rhobernardi/rhobernardi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
