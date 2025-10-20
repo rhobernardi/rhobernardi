@@ -2,7 +2,7 @@
 
 - Computer Scientist in love with technology and computer programming. 
 
-- Embedded Software Engineer @ [Motorola Mobility](https://www.linkedin.com/company/motorola-mobility/)
+- Embedded Software Engineer @ [Volvo Cars](https://www.linkedin.com/company/volvocars)
 
 <br>
 
